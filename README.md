@@ -41,4 +41,4 @@ Remember, we are not building new fixes, mods, or patches. We're merely helping 
 
 ### Other suggestions
 
-Please fel free to make other feature suggestions. However, for the time being the feature set will remain fairly focused: fixing user's games in a 
+Please feel free to make other feature suggestions. However, for the time being the feature set will remain fairly focused: fixing user's games in a simple, controller-focused way.
