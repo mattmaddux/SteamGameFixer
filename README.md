@@ -29,6 +29,7 @@ This is an initial list of possible supported games. A game's inclusion on this 
 - Resident Evil
 - Gust Games (e.g . Atelier series)
 - River City Girls
+- C&C Red Alert 3
 
 
 ### Suggesting a Game
