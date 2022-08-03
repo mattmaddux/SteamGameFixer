@@ -7,7 +7,7 @@ SteamGameFixer will be modular and extensible, allowing the contribution of fixe
 
 ### Implementation
 
-How SteamGameFixer will be built has not yet been decided. While at first it was conceived as a stand-alone application, installed as a FlatPak and added to Steam manually, the current front-runner is to implement as a [DeckyLoader](https://github.com/SteamDeckHomebrew/decky-loader) plugin. The [Crankshaft Plugin Manager] is also being investigated as a possibility.
+How SteamGameFixer will be built has not yet been decided. While at first it was conceived as a stand-alone application, installed as a FlatPak and added to Steam manually, the current front-runner is to implement as a [DeckyLoader](https://github.com/SteamDeckHomebrew/decky-loader) plugin. The [Crankshaft Plugin Manager](https://crankshaft.space/) is also being investigated as a possibility.
 
 The format of game extensions has also not yet been decided. More info to come.
 
